@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Run the script to generate an interactive map:
 
 ```bash
-python hello_folium.py
+python make_map.py
 ```
 
 This will create a `map.html` file in the current directory. Open it in your web browser to view the interactive map with a marker.
